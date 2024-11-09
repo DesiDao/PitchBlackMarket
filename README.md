@@ -1,5 +1,21 @@
-This site is a trading hub for the game Dark and Darker, which at the time did not have any organized market system.
+# PitchBlack Market
+The purpose of this project is to create a game market for items found in Dark and Darker.
 
-Supabase connected for user accounts
-Chat feature added
-Implementing individual adventurer inventories for easier organizing
+# 1) Game Data Acquisition
+{  - Read and Copy game data from .Pak files after every game update
+
+{  - Webscrape new game data from websites that update themselves with this data (darkanddarker wiki, etc)
+# 2) Backend
+
+Node.js
+
+# 3) Front End
+
+React.js
+
+# 4) Domain
+pitchblack.market
+
+# 5) Monetization
+Affiliated Links
+Web Advertising
